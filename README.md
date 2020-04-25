@@ -1,7 +1,5 @@
 # HelicopterTTK4135
-Project in TTK4135 Optimization and control
-
-Project with Eivind Heldal Stray and Anders Breistøl.
+Project in TTK4135 Optimization and control with Eivind Heldal Stray and Anders Breistøl.
 
 Control of a helicopter using quadratic programming (LQ) and sequential quadratic programming (SQP) with linear and nonlinear contraints. 
 
